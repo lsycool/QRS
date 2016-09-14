@@ -1,4 +1,4 @@
-# Student Contact APP
+# QGIS滑坡自动检测插件
 
 [lsycool](https://github.com/lsycool/QRS)
 
